@@ -40,8 +40,8 @@ This project addresses the two questions that came up:
 
 This project addresses the two questions that came up: 
 
-
-[Project : Apple Market Analysis](https://github.com/km5ar/data_science_project/blob/main/Apple/Apple.pdf)
+- ## Apple Market Analysis
+[Project Report](https://github.com/km5ar/data_science_project/blob/main/Apple/Apple.pdf)
 
 
 
