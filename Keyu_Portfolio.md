@@ -102,5 +102,6 @@ This project addresses the two questions that came up:
 
 [Full Report]()
 
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/keyuchen2019/)
 
 
